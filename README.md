@@ -34,3 +34,7 @@ it was designed using a purple–blue calming theme, to match the mental health 
 ---
 
 💜 CalmCloud – A safe space for your mind.
+
+Author: Anyanwu Stephanie Chinaza
+Matric Number: BHU/23/04/05/0038
+CSC315
