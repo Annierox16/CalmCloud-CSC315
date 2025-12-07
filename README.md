@@ -29,6 +29,8 @@ it was designed using a purple–blue calming theme, to match the mental health 
 ### Forgot Password Screen
 ![Screenshot_20251207_065149.png](assets/Screenshots/Screenshot_20251207_065149.png)
 
+### logo
+![logo.jpg](assets/images/logo.jpg)
 ---
 
 💜 CalmCloud – A safe space for your mind.
