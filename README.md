@@ -21,13 +21,13 @@ it was designed using a purple–blue calming theme, to match the mental health 
 ## 🖼️ App Screenshots
 
 ### Login Screen
-![Screenshot_20251207_065103.png](../../Desktop/Screenshot_20251207_065103.png)
+![Screenshot_20251207_065103.png](assets/Screenshots/Screenshot_20251207_065103.png)
 
 ### Register Screen
-![Screenshot_20251207_065729.png](../../Desktop/Screenshot_20251207_065729.png)
+![Screenshot_20251207_065729.png](assets/Screenshots/Screenshot_20251207_065729.png)
 
 ### Forgot Password Screen
-![Screenshot_20251207_065149.png](../../Desktop/Screenshot_20251207_065149.png)
+![Screenshot_20251207_065149.png](assets/Screenshots/Screenshot_20251207_065149.png)
 
 ---
 
